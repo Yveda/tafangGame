@@ -1,0 +1,97 @@
+{
+  "version": "1.1.1",
+  "windows": {
+    "main": {
+      "main": true,
+      "url": "app://editor/index.html",
+      "windowType": "dockable",
+      "x": 71,
+      "y": 12,
+      "width": 1262,
+      "height": 693,
+      "layout": {
+        "children": [
+          {
+            "children": [
+              {
+                "active": 0,
+                "children": [
+                  "hierarchy"
+                ],
+                "height": 247,
+                "type": "panel",
+                "width": 204
+              },
+              {
+                "active": 1,
+                "children": [
+                  "node-library",
+                  "assets"
+                ],
+                "height": 315,
+                "type": "panel",
+                "width": 204
+              }
+            ],
+            "height": 565,
+            "type": "dock-v",
+            "width": 204
+          },
+          {
+            "children": [
+              {
+                "active": 0,
+                "children": [
+                  "scene"
+                ],
+                "height": 335.984375,
+                "type": "panel",
+                "width": 726
+              },
+              {
+                "active": 0,
+                "children": [
+                  "console",
+                  "timeline"
+                ],
+                "height": 226,
+                "type": "panel",
+                "width": 726
+              }
+            ],
+            "height": 565,
+            "type": "dock-v",
+            "width": 726
+          },
+          {
+            "active": 0,
+            "children": [
+              "inspector"
+            ],
+            "height": 565,
+            "type": "panel",
+            "width": 304
+          }
+        ],
+        "type": "dock-h"
+      },
+      "panels": [
+        "node-library",
+        "console",
+        "inspector",
+        "hierarchy",
+        "assets",
+        "scene",
+        "timeline"
+      ]
+    }
+  },
+  "panels": {
+    "preferences": {
+      "x": 19,
+      "y": 105,
+      "width": 580,
+      "height": 565
+    }
+  }
+}

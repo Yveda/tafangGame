@@ -1,0 +1,147 @@
+2018-07-09T16:29:33.985Z - normal: Load ~/.CocosCreator/settings.json
+2018-07-09T16:29:33.993Z - normal: checking language setting...
+2018-07-09T16:29:33.993Z - normal: Language: zh
+2018-07-09T16:29:48.436Z - success: protocol editor-framework registered
+2018-07-09T16:29:48.437Z - success: protocol app registered
+2018-07-09T16:29:48.437Z - success: protocol theme registered
+2018-07-09T16:29:48.437Z - success: protocol packages registered
+2018-07-09T16:29:48.437Z - success: protocol unpack registerred
+2018-07-09T16:29:48.437Z - success: protocol disable-commonjs registerred
+2018-07-09T16:29:48.599Z - normal: connected!
+2018-07-09T16:29:48.602Z - normal: Check project D:\AA学习文件\实战demo\tafang-game\tafang_demo
+2018-07-09T16:29:48.606Z - normal: Initializing Cocos2d
+2018-07-09T16:29:52.763Z - normal: Initializing Asset Database
+2018-07-09T16:29:52.931Z - success: protocol uuid registerred
+2018-07-09T16:29:52.931Z - success: protocol db registerred
+2018-07-09T16:29:52.931Z - success: protocol thumbnail registerred
+2018-07-09T16:29:52.931Z - normal: Loading editor/builtin packages
+2018-07-09T16:29:53.120Z - success: anysdk loaded
+2018-07-09T16:29:53.416Z - success: assets loaded
+2018-07-09T16:29:53.420Z - success: builder loaded
+2018-07-09T16:29:53.425Z - success: cocos-analytics loaded
+2018-07-09T16:29:53.431Z - success: console loaded
+2018-07-09T16:29:53.484Z - success: fb-instant-games loaded
+2018-07-09T16:29:53.489Z - success: hierarchy loaded
+2018-07-09T16:29:53.493Z - success: inspector loaded
+2018-07-09T16:29:53.495Z - success: keystore loaded
+2018-07-09T16:29:53.502Z - success: node-library loaded
+2018-07-09T16:29:53.519Z - success: package-asset loaded
+2018-07-09T16:29:53.523Z - success: preferences loaded
+2018-07-09T16:29:53.527Z - success: project-exporter loaded
+2018-07-09T16:29:53.558Z - success: project-importer loaded
+2018-07-09T16:29:53.561Z - success: project-settings loaded
+2018-07-09T16:29:53.564Z - success: ui-kit loaded
+2018-07-09T16:29:53.575Z - success: ui-grid loaded
+2018-07-09T16:29:53.581Z - success: scene loaded
+2018-07-09T16:29:53.583Z - success: sprite-editor loaded
+2018-07-09T16:29:53.588Z - success: store loaded
+2018-07-09T16:29:53.595Z - success: timeline loaded
+2018-07-09T16:29:53.595Z - normal: Loading builtin packages
+2018-07-09T16:29:53.605Z - success: asset-db-debugger loaded
+2018-07-09T16:29:53.607Z - success: code-editor loaded
+2018-07-09T16:29:53.616Z - success: color-picker loaded
+2018-07-09T16:29:53.619Z - success: package-manager loaded
+2018-07-09T16:29:53.629Z - success: sdkbox loaded
+2018-07-09T16:29:53.633Z - success: tester loaded
+2018-07-09T16:29:53.635Z - success: ui-kit-preview-extra loaded
+2018-07-09T16:29:53.637Z - success: ui-kit-preview loaded
+2018-07-09T16:29:53.640Z - success: ui-tree loaded
+2018-07-09T16:29:56.590Z - normal: Initializing project D:\AA学习文件\实战demo\tafang-game\tafang_demo
+2018-07-09T16:29:56.594Z - normal: Loading packages
+2018-07-09T16:29:56.601Z - normal: Watching packages
+2018-07-09T16:29:56.632Z - normal: Run Application
+2018-07-09T16:30:05.802Z - success: preview server running at http://localhost:7456
+2018-07-09T16:30:39.283Z - normal: 1.9.1
+2018-07-09T16:44:35.510Z - warn: [object Object]
+2018-07-09T16:50:24.666Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:18099
+2018-07-09T17:48:13.473Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:64694
+2018-07-09T17:48:23.758Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:64698
+2018-07-09T17:48:24.315Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:64700
+2018-07-10T13:43:52.053Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:71892
+2018-07-10T13:47:36.616Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:73828
+2018-07-10T13:47:37.951Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:73832
+2018-07-10T14:17:34.512Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:79078
+2018-07-10T14:17:36.750Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:79081
+2018-07-10T14:17:36.751Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:79084
+2018-07-10T14:17:44.872Z - warn: [object Object]
+2018-07-10T17:19:47.613Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:110193
+2018-07-10T17:19:58.185Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:110196
+2018-07-10T17:19:58.751Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:110198
+2018-07-10T17:19:58.751Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:110200
+2018-07-10T17:20:25.627Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:110202
+2018-07-11T16:52:32.792Z - warn: [object Object]
+2018-07-11T16:52:41.508Z - warn: [object Object]
+2018-07-12T12:02:30.914Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:366667
+2018-07-12T12:02:53.334Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:366671
+2018-07-12T12:03:38.983Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:366674
+2018-07-12T12:03:38.984Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:366676
+2018-07-12T12:03:38.984Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:366678
+2018-07-12T12:03:38.984Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:366680
+2018-07-12T12:03:39.657Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:366683
+2018-07-12T12:03:39.657Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:366685
+2018-07-12T12:03:39.658Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:366687
+2018-07-12T12:03:39.658Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:366689
+2018-07-12T12:03:39.658Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:366691
+2018-07-12T12:03:39.658Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:366693
+2018-07-12T12:03:39.659Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:366696
+2018-07-12T12:03:39.659Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:366698
+2018-07-12T12:03:39.659Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:366700
+2018-07-12T12:03:39.660Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:366702
+2018-07-12T12:04:41.974Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:366729
+2018-07-12T12:45:33.904Z - warn: [object Object]
+2018-07-12T12:45:41.893Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:373770
+2018-07-12T12:45:41.894Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:373772
+2018-07-12T12:46:21.874Z - error: Window "window-1531399517705" unresponsive: [object Object]
+    at BrowserWindow.Window.nativeWin.on.e (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\window.js:1:2470)
+    at emitOne (events.js:96:13)
+    at BrowserWindow.emit (events.js:191:7)
+2018-07-12T12:46:23.661Z - error: TypeError: Cannot read property 'nativeWin' of null
+    at Object.e.reply (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\ipc.js:1:1893)
+    at EventEmitter.ipcMain.on.e (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\window.js:1:11349)
+    at emitOne (events.js:96:13)
+    at EventEmitter.emit (events.js:191:7)
+    at _renderer2mainOpts (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\ipc.js:1:2183)
+    at EventEmitter.ipcMain.on.i (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\ipc.js:1:5608)
+    at emitThree (events.js:116:13)
+    at EventEmitter.emit (events.js:197:7)
+    at WebContents.<anonymous> (C:\CocosCreator\resources\electron.asar\browser\api\web-contents.js:247:13)
+    at emitTwo (events.js:106:13)
+    at WebContents.emit (events.js:194:7)
+    at process.on.t (C:\CocosCreator\resources\app.asar\editor\core\editor-init.js:1:1068)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:191:7)
+    at process._fatalException (bootstrap_node.js:308:26)
+2018-07-12T12:48:05.419Z - error: TypeError: Cannot read property 'sender' of undefined
+    at removeRemoteListenersAndLogWarning (C:\CocosCreator\resources\electron.asar\browser\rpc-server.js:153:34)
+    at callIntoRenderer (C:\CocosCreator\resources\electron.asar\browser\rpc-server.js:220:13)
+    at Function.wrappedCallback (C:\CocosCreator\resources\electron.asar\browser\api\dialog.js:129:14)
+    at process.on.t (C:\CocosCreator\resources\app.asar\editor\core\editor-init.js:1:1068)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:191:7)
+    at process._fatalException (bootstrap_node.js:308:26)
+2018-07-13T12:41:42.046Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:805042
+2018-07-13T13:44:16.721Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:816623
+2018-07-13T13:44:24.523Z - error: TypeError: Cannot read property 'nativeWin' of null
+    at _updateTitile (C:\CocosCreator\resources\app.asar\editor\builtin\scene\main.js:1:305)
+    at Object.update-title (C:\CocosCreator\resources\app.asar\editor\builtin\scene\main.js:1:2862)
+    at emitThree (events.js:116:13)
+    at EventEmitter.emit (events.js:197:7)
+    at WebContents.<anonymous> (C:\CocosCreator\resources\electron.asar\browser\api\web-contents.js:247:13)
+    at emitTwo (events.js:106:13)
+    at WebContents.emit (events.js:194:7)
+    at process.on.t (C:\CocosCreator\resources\app.asar\editor\core\editor-init.js:1:1068)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:191:7)
+    at process._fatalException (bootstrap_node.js:308:26)
+2018-07-13T13:44:24.582Z - error: TypeError: Cannot read property 'nativeWin' of null
+    at _updateTitile (C:\CocosCreator\resources\app.asar\editor\builtin\scene\main.js:1:305)
+    at Object.update-title (C:\CocosCreator\resources\app.asar\editor\builtin\scene\main.js:1:2862)
+    at emitThree (events.js:116:13)
+    at EventEmitter.emit (events.js:197:7)
+    at WebContents.<anonymous> (C:\CocosCreator\resources\electron.asar\browser\api\web-contents.js:247:13)
+    at emitTwo (events.js:106:13)
+    at WebContents.emit (events.js:194:7)
+    at process.on.t (C:\CocosCreator\resources\app.asar\editor\core\editor-init.js:1:1068)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:191:7)
+    at process._fatalException (bootstrap_node.js:308:26)
